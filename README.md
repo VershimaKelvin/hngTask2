@@ -1,7 +1,7 @@
 <p align="center">
    <img src="assets/me.jpeg", width="200">
 </p>
-<h3 align="center">MyCRUTECH</>
+<h3 align="center">My Portfolio</>
 <br/><br/>  
 <div align="center">
 
